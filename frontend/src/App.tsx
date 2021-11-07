@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-        <h2>ola cris</h2>      
+        <h2 className="text-primary">ola cris</h2>      
     </div>
   );
 }
